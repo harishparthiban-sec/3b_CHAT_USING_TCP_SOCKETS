@@ -34,6 +34,7 @@ while True:
 ## OUPUT
 ### Server.py
 <img width="827" height="282" alt="Screenshot 2026-05-19 085146" src="https://github.com/user-attachments/assets/30c3497f-2c21-4a44-b158-f76e5cc09093" />
+
 ### Client.py
 <img width="837" height="290" alt="image" src="https://github.com/user-attachments/assets/cbd69460-3b46-4f90-a309-087fbd4b838c" />
 
